@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css?family=Cuprum|Lobster');
+@import url('https://fonts.googleapis.com/css?family=VT323');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+          text-align: center;
+          font-family: 'Lobster', cursive;
+
+}
+
+body {
+  background-image: url("./assets/images/gpxgi4j82e4-joey-kyber.jpg");
+   background-size: cover;
+  font-family: 'Lobster', cursive;
+  font-family: 'Cuprum', sans-serif;
+}
+
+h1 {
+  font-size: 90px;
+  margin: 0 auto;
+  font-family: 'Lobster', cursive;
+  color: #4BA754;
+}
+h2 {
+  font-size: 55px;
+  margin: 0 auto;
+  font-family: 'Lobster', cursive;
+  color: #4BA754;
+}
+p{
+  font-size: 20px;
+margin: 0 auto;
+font-family: 'Lobster', cursive;
+color: #3B2F15;
+}
+.panel-body{
+  font-family: 'Raleway', sans-serif;
+  color: #3B2F15;
+}
+.sideContainer{
+height:105px
+}
+.containerBoard {
+  display: flex;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  width: 525px;
+  align-items:center;
+  justify-content:center;
+}
+.spaceContainer {
+  display: flex;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  width: 525px;
+  height:15px;
+  align-items:center;
+  justify-content:center;
+}
+.containerColumn {
+  display: flex;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  width: 525px;
+  height: 90px;
+  align-items:center;
+  justify-content:center;
+}
+.topColumn{
+  height:75px;
+  width:75px;
+  border-radius: 9999px;
+}
+.topColumnInvisible{
+  opacity: 0;
+  height:75px;
+  width:75px;
+  border-radius: 9999px;
+}
+.topColumn:hover {
+  background-color: #EACA78;
+}
+
+.topColumn2{
+  height:75px;
+  width:75px;
+  border-radius: 9999px;
+}
+
+.topColumn2:hover {
+  background-color: #4DD1C3;
+}
+
+.item {
+  background-color: white;
+  height:75px;
+  width:75px;
+  border-radius: 9999px;
+  padding: 20px;
+  font-size: 150%;
+}
+
+.player1 {
+  background-color: #EACA78;
+  height:75px;
+  width:75px;
+  border-radius: 9999px;
+  padding: 20px;
+  font-size: 150%;
+}
+.player2 {
+  background-color: #4DD1C3;
+  height:75px;
+  width:75px;
+  border-radius: 9999px;
+  padding: 20px;
+  font-size: 150%;
+}
+
+.instruction {
+  margin-top: 7em;
+}
+
+.jumbotronH1{
+  font-size: 30px;
+margin: 0 auto;
+font-family: 'Lobster', cursive;
+color: #FFFFFF;
+}
+
+.panel-title{
+  font-size: 30px;
+}
+.btn-primary{
+  font-size: 20px;
+  margin: 0 auto;
+  font-family: 'Raleway', sans-serif;
+}
