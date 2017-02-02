@@ -15,9 +15,9 @@ Both player will need to outwit each other to be the first player to form either
 
 # Inspiration
 
-[http://codepen.io/fakeplasticpaul/pen/EZjjjE](http://codepen.io/fakeplasticpaul/pen/EZjjjE)
-[https://anupamadh.github.io/Connect4/](https://anupamadh.github.io/Connect4/)
-[https://en.wikipedia.org/wiki/Connect_Four](https://en.wikipedia.org/wiki/Connect_Four)
+* [http://codepen.io/fakeplasticpaul/pen/EZjjjE](http://codepen.io/fakeplasticpaul/pen/EZjjjE)
+* [https://anupamadh.github.io/Connect4/](https://anupamadh.github.io/Connect4/)
+* [https://en.wikipedia.org/wiki/Connect_Four](https://en.wikipedia.org/wiki/Connect_Four)
 
 
 # Prerequisite
@@ -26,9 +26,10 @@ This game only works on desktop.
 No, it is not mobile friendly.
 Version
 
-# v1.0
-Author
+# Version
+1.0
 
+# Author
 Iskandar - Student @ General Assembly Singapore - Web Development Immersive 8
 
 # Credits
