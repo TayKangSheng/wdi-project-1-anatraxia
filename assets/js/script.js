@@ -138,7 +138,7 @@ function connectFour () {
       }
     }
   }
-  function playGameSound(soundFile){
+  function playGameSound (soundFile) {
     soundFile.play()
   }
 
