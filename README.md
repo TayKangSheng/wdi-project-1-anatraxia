@@ -1,5 +1,5 @@
 
-# [Connect 4](https://wdi-sg.github.io/wdi-project-1-anatraxia/)
+# [Connect 4](https://anatraxia.github.io/wdi-project-1-anatraxia/)
 A simple two-player connection game
 
 # Objective
